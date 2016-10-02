@@ -1,0 +1,6 @@
+2016-10-02 13:21:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TABLES" not found; SQL statement:
+select * from tables [42102-192]
+2016-10-02 13:22:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TASK" not found; SQL statement:
+select * from task [42102-192]
